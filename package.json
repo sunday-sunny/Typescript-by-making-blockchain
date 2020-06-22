@@ -1,0 +1,19 @@
+{
+  "name": "Typescript-by-making-blockchain",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/sunday-sunny/Typescript-by-making-blockchain.git",
+  "author": "sunday-sunny <mallox22@hanyang.ac.kr>",
+  "license": "MIT",
+  "dependencies": {
+    "crypto-js": "^4.0.0",
+    "global": "^4.4.0",
+    "typescript": "^3.9.5"
+  },
+  "scripts": {
+    "start": "tsc-watch --onSuccess \" node dist/index.js\" "
+  },
+  "devDependencies": {
+    "tsc-watch": "^4.2.8"
+  }
+}

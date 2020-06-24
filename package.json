@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "main": "index.js",
   "repository": "https://github.com/sunday-sunny/Typescript-by-making-blockchain.git",
-  "author": "sunday-sunny <mallox22@hanyang.ac.kr>",
   "license": "MIT",
   "dependencies": {
     "crypto-js": "^4.0.0",

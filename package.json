@@ -5,7 +5,7 @@
   "repository": "https://github.com/sunday-sunny/Typescript-by-making-blockchain.git",
   "license": "MIT",
   "dependencies": {
-    "crypto-js": "^4.0.0",
+    "crypto-js": "^4.2.0",
     "global": "^4.4.0",
     "typescript": "^3.9.5"
   },
